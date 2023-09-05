@@ -4,6 +4,29 @@ body {
   text-align: center;
 }
 
-p {
+h1 {
   color: aliceblue;
+}
+
+p {
+  color: darkgrey;
+}
+
+ul {
+  text-align: center;
+  font-size: large;
+}
+
+li {
+  text-align: left;
+}
+
+.listContent {
+  background: rgb(28, 48, 48);
+  color: aliceblue;
+  box-shadow: 2px 2px black;
+  border: 1px;
+  width: 50%;
+  margin: auto;
+  padding: 2%;
 }
